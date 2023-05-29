@@ -1,1 +1,1 @@
-# c-program-university-manage-their-course-registraton-using-bsttheir-
+# c-program-university-manage-their-course-registraton-using-bst-tree
